@@ -1,0 +1,141 @@
+32353817304019
+my library
+Apple_II_bus
+Connector Apple ][ Slot
+CONN BUS APPLE ][
+0
+50
+50
+my library
+DSUB-19_Male_Edge_Bare_Pins
+
+
+0
+19
+19
+my library
+DSUB-19_Male_Vertical_Bare_Pins
+
+
+0
+19
+19
+my library
+Heltec_HTIT-WB32
+
+
+0
+36
+36
+my library
+Heltec_WiFi_LoRa_V1
+Heltec WiFi LoRa V1 Footprint
+
+0
+36
+36
+my library
+MountingHole_1.7mm_no_courtyard
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+my library
+PinHeader_2x04_P2.00mm_Edge
+
+
+0
+8
+8
+my library
+PinHeader_2x20_P2.00mm_Edge
+
+
+0
+40
+40
+my library
+SK6812_4020_SMD
+
+
+0
+4
+4
+my library
+SOIC127P600X175-16N
+
+
+0
+16
+16
+my library
+SOIC_clipProgSmall
+
+
+0
+8
+8
+my library
+TE_2306334
+TE 2306334-3 PCB SPRING CONTACT https://www.te.com/usa-en/product-2306334-3.html
+SPRING CONTACT
+0
+3
+1
+my library
+TSSOP-20_4.4x6.5mm_P0.65mm
+TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
+my library
+YAAJ_BluePill_2
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+my library
+YAAJ_BluePill_2_smd
+SMD headers for BluePill module. No SWD breakout. Fancy silkscreen. Added by xunker.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+my library
+db-25-edge
+
+
+0
+25
+25
+my library
+idc-50-edge
+
+
+0
+50
+50
+my library
+idc-50-edge-male
+
+
+0
+50
+50
+my library
+keystone-7774
+
+
+0
+4
+1
+my library
+mill-max-0965-pogo-recessed
+
+
+0
+1
+1
